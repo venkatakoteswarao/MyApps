@@ -32,13 +32,11 @@ offering a smooth experience on both desktop and mobile devices.
 
 ---
 
-## 🖼️ Screenshots
+<h3>🖼️ Screenshots</h3>
 
-### 🔐 Sign Up Page
-![Signup Page](screenshots/signup.png)
+<p float="left">
+  <img src="screenshots/signup.png" width="30%" />
+  <img src="screenshots/login.png" width="30%" />
+  <img src="screenshots/chat.png" width="30%" />
+</p>
 
-### 🔓 Login Page
-![Login Page](screenshots/login.png)
-
-### 💬 Chat Interface
-![Chat Interface](screenshots/chat.png)
